@@ -125,7 +125,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Arun.S, a seasoned security strategist with almost a decade of experience in the cybersecurity sector, has firmly established himself as a dedicated security professional, guided by an unwavering commitment to continuous learning.
+Arun, a seasoned security strategist with almost a decade of experience in the cybersecurity sector, has firmly established himself as a dedicated security professional, guided by an unwavering commitment to continuous learning.
 {style="text-align: justify;"}
 Throughout his illustrious career, Arun has made significant contributions to a diverse array of security communities. He has served as a chapter lead for the null security community in Bangalore and currently holds the esteemed position of chapter lead for the Null | OWASP Coimbatore Chapter. Additionally, Arun actively participates as a contributor, moderator, and esteemed member in various esteemed security communities, including BSides, Null, and OWASP.
 {style="text-align: justify;"}
