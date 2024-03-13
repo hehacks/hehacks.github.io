@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Arun.S'
+    description: 'Arun'
+    twitter: 'hehacks'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -29,12 +29,49 @@ marketing:
     google: ''
     baidu: ''
 
+# Contact (edit or remove options as required)
+
+# email: mvhbugs@gmail.com
+# phone: 888 888 88 88
+# address:
+#   street: 450 Serra Mall
+#   city: Stanford
+#   region: CA
+#   postcode: '94305'
+#   country: United States
+#   country_code: US
+# coordinates:
+#   latitude: '37.4275'
+#   longitude: '-122.1697'
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: DM Me
+#     link: 'https://twitter.com/he_hacks'
+  # - icon: skype
+  #   icon_pack: fab
+  #   name: Skype Me
+  #   link: 'skype:echo123?call'
+  # - icon: keybase
+  #   icon_pack: fab
+  #   name: Chat on Keybase
+  #   link: 'https://keybase.io/hehacks'
+  # - icon: comments
+  #   icon_pack: fas
+  #   name: Discuss on Forum
+  #   link: 'https://discourse.gohugo.io'
+
 # Site header
 
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -96,7 +133,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
