@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: Arun.S
       image:
         filename: hero-academic.png
       cta:
@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Security Team Lead
+          company: IBM - India Software Labs
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-IBM
+          location: India
+          date_start: '2019-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: ''#|2-
+             # Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+             # * Analysing
+             # * Modelling
+             # * Deploying
+        - title: Senior Security Consultant
+          company: IBM - India Software Labs
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-IBM
+          location: India
+          date_start: '2018-01-01'
+          date_end: '2019-01-01'
+          description: ''
+        - title: Security Consultant
+          company: IBM - Global Business Services
+          company_url: ''
+          company_logo: org-IBM
+          location: India
+          date_start: '2016-08-16'
+          date_end: '2018-01-01'
+          description: ''
+        - title: Cyber Security Analyst
+          company: Capgemini India Pvt Ltd.
+          company_url: ''
+          company_logo: org-IBM
+          location: India
+          date_start: '2014-07-01'
+          date_end: '2016-08-15'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
