@@ -1,9 +1,9 @@
 ---
 # Display name
-title: hehacks
+title: Arun.S
 
 # Name pronunciation (optional)
-name_pronunciation: Arun S
+#name_pronunciation: Arun.S
 
 # Full name (for SEO)
 first_name: Arun
@@ -51,7 +51,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+# skills:
   - name: Technical
     items:
       - name: Python
@@ -125,11 +125,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-About Me:
 Arun.S, a seasoned security strategist with almost a decade of experience in the cybersecurity sector, has firmly established himself as a dedicated security professional, guided by an unwavering commitment to continuous learning.
-
+{style="text-align: justify;"}
 Throughout his illustrious career, Arun has made significant contributions to a diverse array of security communities. He has served as a chapter lead for the null security community in Bangalore and currently holds the esteemed position of chapter lead for the Null | OWASP Coimbatore Chapter. Additionally, Arun actively participates as a contributor, moderator, and esteemed member in various esteemed security communities, including BSides, Null, and OWASP.
-
+{style="text-align: justify;"}
 Arun's impact reaches beyond his direct engagement, as he is frequently sought after as a speaker and trainer at prestigious security conferences including the Diana Initiative Las Vegas, Defcon Adversary Village, c0c0n, BSides, and more.
 His expertise has played a crucial role in enhancing security across both service and product divisions, spanning various sectors such as e-commerce, healthcare, and banking, among others.
 {style="text-align: justify;"}
