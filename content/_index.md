@@ -65,7 +65,7 @@ sections:
         - title: Senior Security Team Lead
           company: IBM - India Software Labs
           company_url: ''
-          company_logo: 'ibmlogo.svg'#org-x
+          company_logo: 'ibmlogo'#org-x
           location: India
           date_start: '2019-01-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Senior Security Consultant
           company: IBM - India Software Labs
           company_url: ''
-          company_logo: 'ibmlogo.svg'
+          company_logo: 'ibmlogo'
           location: India
           date_start: '2018-01-01'
           date_end: '2019-01-01'
@@ -86,7 +86,7 @@ sections:
         - title: Security Consultant
           company: IBM - Global Business Services
           company_url: ''
-          company_logo: 'ibmlogo.svg'
+          company_logo: 'ibmlogo'
           location: India
           date_start: '2016-08-16'
           date_end: '2018-01-01'
