@@ -169,7 +169,7 @@ sections:
           date_end: ''
           date_start: '2018-06-05'
           description: 
-          icon: 'Offse'
+          icon: 'Ofsec'
           organization: 'Offensive Security'
           organization_url: 'https://www.offensive-security.com/'
           title: 'Offensive Security Certified Professional (OSCP)'
