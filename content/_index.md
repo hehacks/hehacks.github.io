@@ -94,7 +94,7 @@ sections:
         - title: Cyber Security Analyst.
           company: Capgemini India Pvt Ltd.
           company_url: ''
-          company_logo: 'Capglogo'
+          company_logo: 'Capg'
           location: India
           date_start: '2014-07-01'
           date_end: '2016-08-15'
@@ -119,7 +119,7 @@ sections:
           date_end: ''
           date_start: '2024-02-27'
           description: ''
-          icon: datacamp
+          icon: 'microsoft'
           organization: 'Microsoft'
           organization_url: 'https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/'
           title: 'Microsoft Certified: Azure Fundamentals'
@@ -129,7 +129,7 @@ sections:
           date_end: ''
           date_start: '2023-11-21'
           description: ''
-          icon: coursera
+          icon: 'isaca'
           organization: 'ISACA'
           organization_url: 'https://www.isaca.org/credentialing/cism'
           title: 'Certified Information Security Manager (CISM)'
@@ -139,7 +139,7 @@ sections:
           date_end: ''
           date_start: '2023-10-02'
           description: ''
-          icon: datacamp
+          icon: 'aws'
           organization: 'Amazon Web Services (AWS)'
           organization_url: 'https://aws.amazon.com/'
           title: 'AWS Certified Security – Specialty '
@@ -149,7 +149,7 @@ sections:
           date_end: ''
           date_start: '2020-12-18'
           description: ''
-          icon: datacamp
+          icon: 'ine'
           organization: 'INE Security'
           organization_url: 'https://security.ine.com/certifications/ewptx-certification/'
           title: 'Web application Penetration Tester eXtreme (eWPTv2)'
@@ -159,7 +159,7 @@ sections:
           date_end: ''
           date_start: '2019-10-02'
           description: ''
-          icon: datacamp
+          icon: 'ine'
           organization: 'INE Security'
           organization_url: 'https://security.ine.com/certifications/ewpt-certification/'
           title: 'Web Application Penetration Tester (eWPTv3)'
@@ -169,7 +169,7 @@ sections:
           date_end: ''
           date_start: '2018-06-05'
           description: 
-          icon: edx
+          icon: 'Offsec'
           organization: 'Offensive Security'
           organization_url: 'https://www.offensive-security.com/'
           title: 'Offensive Security Certified Professional (OSCP)'
