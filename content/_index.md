@@ -104,7 +104,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplishments'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -114,33 +114,67 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+
+        - certificate_url: 'https://learn.microsoft.com/api/credentials/share/en-gb/ArunS-9939/3075056FA1CFE813?sharingId'
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2024-02-27'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: 'Microsoft'
+          organization_url: 'https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/'
+          title: 'Microsoft Certified: Azure Fundamentals'
+          url: 'https://learn.microsoft.com/api/credentials/share/en-gb/ArunS-9939/3075056FA1CFE813?sharingId' 
+
+        - certificate_url: 'https://www.credly.com/badges/86c431b6-21d4-4517-a4b3-3923d788ccec/linked_in_profile'
+          date_end: ''
+          date_start: '2023-11-21'
+          description: ''
+          icon: coursera
+          organization: 'ISACA'
+          organization_url: 'https://www.isaca.org/credentialing/cism'
+          title: 'Certified Information Security Manager (CISM)'
+          url: 'https://www.isaca.org/credentialing/cism'
+
+        - certificate_url: 'https://www.credly.com/badges/8e614864-2463-48a3-b7a0-68689825be04/linked_in_profile'
+          date_end: ''
+          date_start: '2023-10-02'
+          description: ''
+          icon: datacamp
+          organization: 'Amazon Web Services (AWS)'
+          organization_url: 'https://aws.amazon.com/'
+          title: 'AWS Certified Security – Specialty '
+          url: 'https://aws.amazon.com/certification/certified-security-specialty/'
+
+          - certificate_url: 'https://certs.ine.com/2b95a880-ec33-4b1c-8006-215f7672d5b8'
+          date_end: ''
+          date_start: '2020-12-18'
+          description: ''
+          icon: datacamp
+          organization: 'INE Security'
+          organization_url: 'https://security.ine.com/certifications/ewptx-certification/'
+          title: 'Web application Penetration Tester eXtreme (eWPTv2)'
+          url: 'https://certs.ine.com/2b95a880-ec33-4b1c-8006-215f7672d5b8'
+
+          - certificate_url: 'https://certs.ine.com/3867bb2e-d955-4808-a34e-83f352cdbc03'
+          date_end: ''
+          date_start: '2019-10-02'
+          description: ''
+          icon: datacamp
+          organization: 'INE Security'
+          organization_url: 'https://security.ine.com/certifications/ewpt-certification/'
+          title: 'Web Application Penetration Tester (eWPTv3)'
+          url: 'https://certs.ine.com/3867bb2e-d955-4808-a34e-83f352cdbc03'
+
+          - certificate_url: 'https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/'
+          date_end: ''
+          date_start: '2018-06-05'
+          description: 
+          icon: edx
+          organization: 'Offensive Security'
+          organization_url: 'https://www.offensive-security.com/'
+          title: 'Offensive Security Certified Professional (OSCP)'
+          url: 'https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/'
+
     design:
       columns: '2'
   - block: collection
