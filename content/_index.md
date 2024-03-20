@@ -330,7 +330,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id:
+          id: 'mvhbugs@gmail.com'
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
