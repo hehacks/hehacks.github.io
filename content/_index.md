@@ -91,7 +91,7 @@ sections:
           date_start: '2016-08-16'
           date_end: '2018-01-01'
           description: ''
-        - title: Cyber Security Analyst
+        - title: Cyber Security Analyst.
           company: Capgemini India Pvt Ltd.
           company_url: ''
           company_logo: ''
