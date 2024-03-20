@@ -145,7 +145,7 @@ sections:
           title: 'AWS Certified Security – Specialty '
           url: 'https://aws.amazon.com/certification/certified-security-specialty/'
 
-          - certificate_url: 'https://certs.ine.com/2b95a880-ec33-4b1c-8006-215f7672d5b8'
+        - certificate_url: 'https://certs.ine.com/2b95a880-ec33-4b1c-8006-215f7672d5b8'
           date_end: ''
           date_start: '2020-12-18'
           description: ''
@@ -155,7 +155,7 @@ sections:
           title: 'Web application Penetration Tester eXtreme (eWPTv2)'
           url: 'https://certs.ine.com/2b95a880-ec33-4b1c-8006-215f7672d5b8'
 
-          - certificate_url: 'https://certs.ine.com/3867bb2e-d955-4808-a34e-83f352cdbc03'
+        - certificate_url: 'https://certs.ine.com/3867bb2e-d955-4808-a34e-83f352cdbc03'
           date_end: ''
           date_start: '2019-10-02'
           description: ''
@@ -165,7 +165,7 @@ sections:
           title: 'Web Application Penetration Tester (eWPTv3)'
           url: 'https://certs.ine.com/3867bb2e-d955-4808-a34e-83f352cdbc03'
 
-          - certificate_url: 'https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/'
+        - certificate_url: 'https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/'
           date_end: ''
           date_start: '2018-06-05'
           description: 
