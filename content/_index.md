@@ -94,7 +94,7 @@ sections:
         - title: Cyber Security Analyst.
           company: Capgemini India Pvt Ltd.
           company_url: ''
-          company_logo: 'Capg'
+          company_logo: 'Cap'
           location: India
           date_start: '2014-07-01'
           date_end: '2016-08-15'
