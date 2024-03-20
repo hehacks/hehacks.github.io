@@ -285,18 +285,18 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: mvhbugs@gmail.com
+      #email: mvhbugs@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com/hehacks'
-      address:
+      #address:
         #street: 450 Serra Mall
-        city: Coimbatore
+        #city: Coimbatore
         #region: CA
         #postcode: '94305'
-        country: India
-        country_code: IN
+        #country: India
+        #country_code: IN
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
         #- 'Monday 10:00 to 13:00'
