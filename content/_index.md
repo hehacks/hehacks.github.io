@@ -289,7 +289,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: mvhbugs@gmail.com
       #phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com/hehacks'
       address:
         #street: 450 Serra Mall
         city: Coimbatore
